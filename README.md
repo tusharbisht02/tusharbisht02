@@ -1,6 +1,5 @@
 # Tushar Bisht - DevOps Specialist 👨‍💻
-
-![Keeping Things Running](https://media.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy.gif)
+![DevOps](https://media.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy.gif)
 
 ## About Me
 
