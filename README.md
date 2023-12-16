@@ -24,15 +24,11 @@ Hello there! I'm Tushar Bisht, a passionate DevOps engineer with expertise in au
 
 ## 🚀 Projects
 
-### Project 1: [Project Name 1](link-to-repo)
+### Project 1: [JAVA_WEB_APP](https://github.com/tusharbisht02/java-simple-ci-cd)
 Brief description of the project and its significance. Highlight your role, technologies used, and outcomes.
 
-![Project 1 Image](link-to-project1-image)
+![Project 1 Image](https://images.pexels.com/photos/11035479/pexels-photo-11035479.jpeg?auto=compress&cs=tinysrgb&w=600)
 
-### Project 2: [Project Name 2](link-to-repo)
-Another notable project description. Showcase the diversity of your work and the problems you've solved.
-
-![Project 2 Image](link-to-project2-image)
 
 ## 🌱 Currently Learning
 
@@ -40,12 +36,12 @@ Always in pursuit of knowledge! Currently exploring XYZ technology/tool/framewor
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tusharbisht02&show_icons=true&hide_title=true)
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Tushar Bisht](https://www.linkedin.com/in/yourlinkedinprofile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
+- LinkedIn: [Tushar Bisht](https://www.linkedin.com/in/tusharbisht)
+- Twitter: [@YourTwitterHandle](https://twitter.com/tusharbisht)
 - Portfolio: [tusharbisht.dev](https://www.tusharbisht.dev)
 
 Feel free to explore my repositories, and don't hesitate to reach out. Let's collaborate and build amazing things together! 🚀
