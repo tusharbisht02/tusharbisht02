@@ -1,6 +1,6 @@
 # Tushar Bisht - DevOps Specialist 👨‍💻
 
-![Keeping Things Running](https://www.pexels.com/photo/data-codes-through-eyeglasses-577585/)
+![Keeping Things Running](Photo by Kevin Ku: https://www.pexels.com/photo/data-codes-through-eyeglasses-577585/)
 
 ## About Me
 
