@@ -1,6 +1,7 @@
 # Tushar Bisht - DevOps Specialist 👨‍💻
 
 ![Keeping Things Running](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg)
+![Keeping Things Running](https://media.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy.gif)
 
 ## About Me
 
@@ -40,7 +41,7 @@ Always in pursuit of knowledge! Currently exploring XYZ technology/tool/framewor
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Tushar Bisht](https://www.linkedin.com/in/tusharbisht)
+- LinkedIn: [Tushar Bisht](https://www.linkedin.com/in/tusharbisht2)
 - Twitter: [@YourTwitterHandle](https://twitter.com/tusharbisht)
 - Portfolio: [tusharbisht.dev](https://www.tusharbisht.dev)
 
