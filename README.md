@@ -1,5 +1,5 @@
 # Tushar Bisht - DevOps Specialist 👨‍💻
-![DevOps](https://media.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy.gif)
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/kgUkCLMu3xhw1T6txv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/DigitalHarbor-kgUkCLMu3xhw1T6txv">via GIPHY</a></p>
 
 ## About Me
 
