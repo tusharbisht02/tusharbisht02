@@ -27,7 +27,7 @@ Hello there! I'm Tushar Bisht, a passionate DevOps engineer with expertise in au
 ### Project 1: [JAVA_WEB_APP](https://github.com/tusharbisht02/java-simple-ci-cd)
 Brief description of the project and its significance. Highlight your role, technologies used, and outcomes.
 
-![Project 1 Image](https://images.pexels.com/photos/11035479/pexels-photo-11035479.jpeg?auto=compress&cs=tinysrgb&w=600)
+![Pipeline 1 Image](https://images.pexels.com/photos/11035479/pexels-photo-11035479.jpeg?auto=compress&cs=tinysrgb&w=600)
 
 
 ## 🌱 Currently Learning
