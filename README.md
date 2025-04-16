@@ -1,47 +1,22 @@
-# Tushar Bisht - DevOps Specialist 👨‍💻
+<h1 align="center">Hi 👋, I'm Tushar Bisht</h1>
+<h3 align="center">Cloud & DevOps Engineer | Infrastructure Automation | CI/CD Architect</h3>
 
-![Cool GIF](https://media.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy-downsized-large.gif)
+- 🔭 I’m currently working on **GCP, Kubernetes, Terraform, and Gitlab CI**
 
-## About Me
+- 🌱 I’m currently learning **currently exploring FinOps and advanced platform engineering**
 
-Hello there! I'm Tushar Bisht, a passionate DevOps engineer with expertise in automating, optimizing, and streamlining deployment and infrastructure processes. I thrive on the intersection of development and operations, turning ideas into reliable and scalable solutions.
+- 💬 Ask me about **Cloud Infrastructure (AWS, Azure, GCP) - Infrastructure as Code (Terraform) - CI/CD Pipelines & Automation - Kubernetes & Container Orchestration - GitOps & DevOps Best Practices - Monitoring & Observability (Prometheus, Grafana, ELK) - Cost Optimization & Security in Cloud**
 
-- 💻 DevOps Enthusiast
-- 🚀 Continuous Integration & Continuous Deployment (CI/CD)
-- ☁️ Cloud Infrastructure Management
-- 🐳 Containerization & Orchestration
-- 🧰 Automation and Scripting
+- 📫 How to reach me **tshrbsht02@gmail.com**
 
-## 🔧 Skills
+- ⚡ Fun fact **My IDE knows me better than most people. Also, yes—I deploy on Fridays.**
 
-- **Automation:** Scripting (Bash, Python), Infrastructure as Code (Terraform)
-- **CI/CD:** Jenkins, GitLab CI, GitHub Actions
-- **Containerization:** Docker
-- **Orchestration:** Kubernetes
-- **Cloud Platforms:** AWS, Azure, GCP
-- **Monitoring:** Prometheus, Grafana
-- **Version Control:** Git
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tusharbisht2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tusharbisht2" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19470755" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19470755" height="30" width="40" /></a>
+<a href="https://instagram.com/tusharbisht._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tusharbisht._" height="30" width="40" /></a>
+</p>
 
-## 🚀 Projects
-
-### Project 1: [JAVA_WEB_APP](https://github.com/tusharbisht02/java-simple-ci-cd)
-Brief description of the project and its significance. Highlight your role, technologies used, and outcomes.
-
-![Pipeline 1 Image](https://images.pexels.com/photos/11035479/pexels-photo-11035479.jpeg?auto=compress&cs=tinysrgb&w=600)
-
-
-## 🌱 Currently Learning
-
-Always in pursuit of knowledge! Currently exploring XYZ technology/tool/framework to enhance my skill set.
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tusharbisht02&show_icons=true&hide_title=true)
-
-## 📫 Let's Connect
-
-- LinkedIn: [Tushar Bisht](https://www.linkedin.com/in/tusharbisht2)
-- Twitter: [@YourTwitterHandle](https://twitter.com/tusharbisht)
-- Portfolio: [tusharbisht.dev](https://www.tusharbisht.dev)
-
-Feel free to explore my repositories, and don't hesitate to reach out. Let's collaborate and build amazing things together! 🚀
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
